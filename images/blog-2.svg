@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#292F36"/><stop offset="1" stop-color="#1A1E23"/></linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9BFAEC"/><stop offset="1" stop-color="#12F7D6"/></linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <circle cx="340" cy="45" r="84" fill="#12F7D6" opacity="0.06"/>
+  <circle cx="40" cy="270" r="66" fill="#12F7D6" opacity="0.05"/>
+  <rect x="40" y="240" width="160" height="6" rx="3" fill="#12F7D6" opacity="0.5"/><rect x="40" y="256" width="110" height="6" rx="3" fill="#12F7D6" opacity="0.35"/><rect x="40" y="272" width="80" height="6" rx="3" fill="#12F7D6" opacity="0.25"/>
+  <text x="200" y="170" text-anchor="middle" font-family="'IBM Plex Mono','Courier New',monospace" font-weight="600" font-size="64" fill="url(#ac)">[ # ]</text>
+</svg>
